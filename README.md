@@ -1,5 +1,7 @@
+## Basic calculator project 
 A simple command-line calculator built using Python.
 This project performs basic arithmetic operations such as addition, subtraction, multiplication, and division.
+
 Features
 1. Addition
 2. Subtraction
@@ -27,11 +29,13 @@ Enter operator (+, -, *, /): *
 Enter second number: 5
 
 Result: 50
+
 Future Improvements
 1. GUI version using Tkinter
 2. Scientific calculator functions
 3. History feature
 4. Better UI/UX
+
 
 Author
 Aditya Arora
