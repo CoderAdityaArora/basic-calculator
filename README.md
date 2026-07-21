@@ -1,4 +1,4 @@
-## Basic calculator project 
+## MINI PROJECT - BASIC CALCULATOR
 A simple command-line calculator built using Python.
 This project performs basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
