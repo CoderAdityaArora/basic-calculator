@@ -9,13 +9,19 @@ Features
 4. Division
 5. User-friendly CLI interface
 6. Error handling for invalid inputs and division by zero
+
 Technologies Used
 Python 3
+
 Project Structure
+
+```
 bash
 calculator/
 │── calculator.py
 │── README.md
+ ```
+
 How to Run
 1. Clone the repository
  git clone https://github.com/your-username/basic-calculator.git
