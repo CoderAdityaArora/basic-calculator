@@ -11,9 +11,11 @@ Features
 6. Error handling for invalid inputs and division by zero
 
 Technologies Used
+
 Python 3
 
 Project Structure
+
 
 ```
 bash
@@ -21,6 +23,7 @@ calculator/
 │── calculator.py
 │── README.md
  ```
+
 
 How to Run
 1. Clone the repository
@@ -36,6 +39,7 @@ Enter second number: 5
 
 Result: 50
 
+
 Future Improvements
 1. GUI version using Tkinter
 2. Scientific calculator functions
@@ -44,6 +48,7 @@ Future Improvements
 
 
 Author
-Aditya Arora
+
+**Aditya Arora**
 B.Tech CSE (AI & ML) Student | Python Learner
    
